@@ -68,7 +68,7 @@ public class LinkedListDemo {
         System.out.println("Reverse of List: ");
         LinkedList list1 = list.reverse();
         list1.display();
-        System.out.println(" ");
+        System.out.println();
 
         LinkedList list2 = new LinkedList();
 
