@@ -7,7 +7,7 @@ Given the head of a singly linked list, reverse the list, and return the reverse
 
 package LinkedList;
 
-public class _260 {
+public class _206 {
         public ListNode reverseList(ListNode head) {
             ListNode newHead = null;
 
