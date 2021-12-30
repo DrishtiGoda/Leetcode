@@ -27,3 +27,14 @@ public class _2114 {
         return count;
     }
 }
+
+
+// public int mostWordsFound(String[] sentences) {
+//        int count =0;
+//        for(int i=0; i<sentences.length; i++){
+//            String[] temp = sentences[i].split(" ");
+//            if(count < temp.length)
+//                count = temp.length;
+//        }
+//        return count;
+//    }
